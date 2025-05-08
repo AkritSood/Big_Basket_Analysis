@@ -39,7 +39,8 @@ This project explores and analyzes product data from Big Basket, one of India’
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/big-basket-analysis.git
+git clone https://github.com/AkritSood/Big_Basket_Analysis
+
 cd big-basket-analysis
 
 ### 2.Install Dependencies
